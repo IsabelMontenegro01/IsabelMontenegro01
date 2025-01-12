@@ -1,7 +1,9 @@
 <h1 align="center">Ei 👋, eu sou a Isabel</h1>
 <h3 align="center">Uma estudante de engenharia de software do Inteli. Adoro desafios e tenho uma paixão por entender como as coisas funcionam, desmontando e montando peças. Gosto de me comunicar e me dou bem liderando equipes. Lidar com tecnologia é algo que faço com paciência e prazer, buscando soluções práticas e eficientes. </h3>
 
-![ezgif com-resize](https://github.com/user-attachments/assets/651039e5-f540-47b5-8f24-2df70d493991)
+ 
+	
+ ![ezgif com-resize](https://github.com/user-attachments/assets/651039e5-f540-47b5-8f24-2df70d493991)
 
 ### 💡 Buddy
 
@@ -26,7 +28,7 @@ Sou mineira, tenho 23 anos, minha mãe é carioca e meus avós maternos são par
 
  
 
-## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Profile views  🕵️‍♀️: <br>
+### <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="20"> Profile views  🕵️‍♀️: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/isabelmontenegro01/count.svg"/>
 
