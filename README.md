@@ -1,13 +1,13 @@
 <h1 align="center">Oi 👋, eu sou a Isabel</h1>
 <h3 align="center">Uma estudante de engenharia de software do Inteli. Adoro desafios e tenho uma paixão por entender como as coisas funcionam, desmontando e montando peças. Gosto de me comunicar e me dou bem liderando equipes. Lidar com tecnologia é algo que faço com paciência e prazer, buscando soluções práticas e eficientes. </h3>
 
-![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/b2631577-9465-432d-869e-189c1d4c967a)
+![ezgif com-resize](https://github.com/user-attachments/assets/651039e5-f540-47b5-8f24-2df70d493991)
 
 ### 💡 Buddy
 
 Minha buddy é a Ana, está no segundo ano de engenharia da computação e tem me ajudado nas dúvidas sobre o Inteli.
 
-<a href="https://github.com/anabeggiato" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Reimar" height="60" width="60" /></a>
+<a href="https://github.com/anabeggiato" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Reimar" height="30" width="30" /></a>
 
 
 ### 🌾 Curiosidades sobre mim 
@@ -25,11 +25,13 @@ Sou mineira, tenho 23 anos, minha mãe é carioca e meus avós maternos são par
   <a href = "mailto:isabel.ruela@sou.inteli.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isabelmontenegro01&label=Profile%20views&color=0e75b6&style=flat" alt="isabelmontenegro01" /> </p>
+
+## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Profile views  🕵️‍♀️: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/isabelmontenegro01/count.svg"/>
 
 
-<h3 align="center"> Obrigada por visitar minha página :) / Thank you for visiting my page :) </h3>
+<h3 align="center"> Obrigada por visitar minha página :)  </h3>
 
 <!--
 **IsabelMontenegro01/IsabelMontenegro01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
