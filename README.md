@@ -1,9 +1,11 @@
 <h1 align="center">Ei 👋, eu sou a Isabel</h1>
 <h3 align="center">Uma estudante de engenharia de software do Inteli. Adoro desafios e tenho uma paixão por entender como as coisas funcionam, desmontando e montando peças. Gosto de me comunicar e me dou bem liderando equipes. Lidar com tecnologia é algo que faço com paciência e prazer, buscando soluções práticas e eficientes. </h3>
 
- 
-	
- ![ezgif com-resize](https://github.com/user-attachments/assets/651039e5-f540-47b5-8f24-2df70d493991)
+<br/>
+<p align='center'>
+<img src= 'https://github.com/user-attachments/assets/651039e5-f540-47b5-8f24-2df70d493991' />
+</p>
+<br/>
 
 ### 💡 Buddy
 
