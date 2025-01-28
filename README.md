@@ -7,22 +7,6 @@
 </p>
 <br/>
 
-### 💡 Buddy
-
-Minha buddy é a Ana, está no segundo ano de engenharia da computação e tem me ajudado nas dúvidas sobre o Inteli.
-
-<a href="https://github.com/anabeggiato" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Reimar" height="30" width="30" /></a>
-
-
-### 🌾 Curiosidades sobre mim 
-
-Sou mineira, tenho 23 anos, minha mãe é carioca e meus avós maternos são paraibanos. Já vivi em Fortaleza (CE), São José dos Campos (SP) e agora, em São Paulo, então, meu sotaque é uma mistura de tudo isso. No tempo livre, curto fazer crossfit e tocar instrumentos para relaxar.
-
-### 🤓 Frases que me ispiram
-
-- "É justo que muito custe o que muito vale" Santa Teresa de Jesus
-- "Se tens de servir a Deus com a tua inteligência, estudar para ti é uma obrigação  grave" S. José Maria Escrivá
-
 <h3 align="left">Connect with me:</h3>
 
  <a href="https://instagram.com/isabelmontenegro_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
